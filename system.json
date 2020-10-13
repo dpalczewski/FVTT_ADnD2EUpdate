@@ -23,7 +23,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/keithhannen/FoundryVTT",
-  "manifest": "https://raw.githubusercontent.com/keithhannen/FoundryVTT/main/ADnD_2E/system.json",
+  "manifest": "",
   "download": "https://github.com/keithhannen/FoundryVTT/archive/main.zip",
   "license": "LICENSE.txt"
 }
