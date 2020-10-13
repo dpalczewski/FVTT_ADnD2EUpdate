@@ -42,7 +42,23 @@
         "cha": {
           "value": 10
         }
-      }
+      },
+      "saving_throws": {
+        "st_paralyze": {
+          "value": 0
+        },
+        "st_rod": {
+          "value": 0
+        },
+        "st_petrify": {
+          "value": 0
+        },
+        "st_breath": {
+          "value": 0
+        },
+        "st_spells": {
+          "value": 0
+        }
     }
   },
   "Item": {
