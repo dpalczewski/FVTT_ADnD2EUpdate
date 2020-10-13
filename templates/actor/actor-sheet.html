@@ -41,14 +41,6 @@
               </div>
             {{/each}}
           </div>
-          <div class="saving_throws grid grid-3col">
-            {{#each data.saving_throws as |st key|}}
-              <div class="saving_throws flexrow flex-group-center">
-                <label for="data.saving_throws.{{key}}.value" class="resource-label">{{key}}</label>
-                <input type="text" name="data.saving_throws.{{key}}.value" value="{{saving_throws.value}}" data-dtype="Number"/>
-              </div>
-            {{/each}}
-          </div>
         </div>
     </header>
 
