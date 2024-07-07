@@ -5,7 +5,7 @@
   "description": "AD&D 2E system for FoundryVTT!",
   "version": "0.1.0",
   "minimumCoreVersion": "0.6.0",
-  "compatibleCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "12.0.0",
   "templateVersion": 2,
   "author": "John Doe",
   "esmodules": ["module/ADnD_2E.js"],
