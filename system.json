@@ -25,6 +25,5 @@
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/dpalczewski/FVTT_ADnD2EUpdate",
   "manifest": "https://raw.githubusercontent.com/dpalczewski/FVTT_ADnD2EUpdate/main/system.json",
-  "download": "https://github.com/dpalczewski/FVTT_ADnD2EUpdate/archive/main.zip",
   "license": "LICENSE.txt"
 }
